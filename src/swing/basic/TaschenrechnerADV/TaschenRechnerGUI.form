@@ -47,7 +47,8 @@
               <enabled value="true"/>
               <hideActionText value="false"/>
               <horizontalTextPosition value="0"/>
-              <name value="exponantial"/>
+              <name value="precentage"/>
+              <opaque value="false"/>
               <text value="%"/>
               <verticalAlignment value="0"/>
             </properties>
@@ -120,7 +121,7 @@
               <hideActionText value="false"/>
               <horizontalTextPosition value="0"/>
               <name value="root"/>
-              <text value="2\/x"/>
+              <text value="2√x"/>
               <verticalAlignment value="0"/>
             </properties>
             <clientProperties>
