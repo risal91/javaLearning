@@ -57,7 +57,6 @@ public class TaschenRechnerGUI extends JFrame {
                     rechenweg.setText("");
                     eingabe.setText("");
                 }
-                System.out.println(btn.getName());
                 if(btn.getName().equals("comma")) {
                     eingabe.setText(eingabe.getText() + ".");
                 } else if (Pattern.matches("[\\d,]{1}", btn.getText())) {
